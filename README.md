@@ -17,23 +17,25 @@ computer engineering @ purdue · robotics @ ulysses
 
 <sub><strong>CORE STACK</strong></sub>
 
-<p>
-<img src="https://img.shields.io/badge/NVIDIA%20Jetson-0B0E14?style=for-the-badge&logo=nvidia&logoColor=76B900" alt="NVIDIA Jetson">
-<img src="https://img.shields.io/badge/STM32-0B0E14?style=for-the-badge&logo=stmicroelectronics&logoColor=3CB4E6" alt="STM32">
-<img src="https://img.shields.io/badge/KiCad-0B0E14?style=for-the-badge&logo=kicad&logoColor=55A7E0" alt="KiCad">
-<img src="https://img.shields.io/badge/CAN-0B0E14?style=for-the-badge" alt="CAN bus">
-<img src="https://img.shields.io/badge/ROS%202-0B0E14?style=for-the-badge&logo=ros&logoColor=67B7E1" alt="ROS 2">
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/C%2B%2B-0B0E14?style=for-the-badge&logo=cplusplus&logoColor=659AD2" alt="C++">
-<img src="https://img.shields.io/badge/Python-0B0E14?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python">
-<img src="https://img.shields.io/badge/Docker-0B0E14?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
-<img src="https://img.shields.io/badge/Linux-0B0E14?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux">
-<img src="https://img.shields.io/badge/Gazebo-0B0E14?style=for-the-badge&logo=gazebo&logoColor=F58113" alt="Gazebo">
-</p>
-
-<sub><code>C</code> · <code>Rust</code> · <code>Ansible</code> · <code>NATS</code> · <code>Tokio</code> · <code>SolidWorks</code> · <code>Fusion 360</code></sub>
+<table width="100%">
+<tr>
+<td width="20%" align="center"><img src="https://img.shields.io/badge/NVIDIA%20Jetson-0B0E14?style=for-the-badge&logo=nvidia&logoColor=76B900" alt="NVIDIA Jetson"></td>
+<td width="20%" align="center"><img src="https://img.shields.io/badge/STM32-0B0E14?style=for-the-badge&logo=stmicroelectronics&logoColor=3CB4E6" alt="STM32"></td>
+<td width="20%" align="center"><img src="https://img.shields.io/badge/KiCad-0B0E14?style=for-the-badge&logo=kicad&logoColor=55A7E0" alt="KiCad"></td>
+<td width="20%" align="center"><img src="https://img.shields.io/badge/CAN-0B0E14?style=for-the-badge" alt="CAN bus"></td>
+<td width="20%" align="center"><img src="https://img.shields.io/badge/ROS%202-0B0E14?style=for-the-badge&logo=ros&logoColor=67B7E1" alt="ROS 2"></td>
+</tr>
+<tr>
+<td width="20%" align="center"><img src="https://img.shields.io/badge/C%2B%2B-0B0E14?style=for-the-badge&logo=cplusplus&logoColor=659AD2" alt="C++"></td>
+<td width="20%" align="center"><img src="https://img.shields.io/badge/Python-0B0E14?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"></td>
+<td width="20%" align="center"><img src="https://img.shields.io/badge/Docker-0B0E14?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"></td>
+<td width="20%" align="center"><img src="https://img.shields.io/badge/Linux-0B0E14?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"></td>
+<td width="20%" align="center"><img src="https://img.shields.io/badge/Gazebo-0B0E14?style=for-the-badge&logo=gazebo&logoColor=F58113" alt="Gazebo"></td>
+</tr>
+<tr>
+<td colspan="5" align="center"><sub><code>C</code> · <code>Rust</code> · <code>Ansible</code> · <code>NATS</code> · <code>Tokio</code> · <code>SolidWorks</code> · <code>Fusion 360</code></sub></td>
+</tr>
+</table>
 
 </div>
 
@@ -41,7 +43,7 @@ computer engineering @ purdue · robotics @ ulysses
 
 ### `Projects`
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 <h3>01 / Vehicle infrastructure</h3>
