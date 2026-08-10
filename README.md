@@ -11,7 +11,7 @@
 
 computer engineering @ purdue · robotics @ ulysses
 
-[LinkedIn](https://www.linkedin.com/in/ivandovbush) · [Email](mailto:idovbush@purdue.edu)
+[LinkedIn](https://www.linkedin.com/in/ivandovbush) · [Personal GitHub](https://github.com/ivandovbush) · [Email](mailto:idovbush@purdue.edu)
 
 <br>
 
