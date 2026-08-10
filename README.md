@@ -19,20 +19,20 @@ Computer Engineering @ Purdue · Robotics Engineering @ Ulysses
 
 ### `Projects`
 
-**01 · AUV bring-up automation**  
-Automated Jetson flashing, Docker setup, networking, and Pixhawk configuration—cutting vehicle setup time by **95%+**.  
+**01 · AUV bring-up automation**<br>
+Automated Jetson flashing, Docker setup, networking, and Pixhawk configuration—cutting vehicle setup time by **95%+**.<br>
 `Ansible` `Docker` `Jetson` `Pixhawk`
 
-**02 · Georeferenced sonar pipeline**  
-Built an SDS-to-XTF converter that gates capture on mission state and fuses DVL/INS data from NATS into navigation packets.  
+**02 · Georeferenced sonar pipeline**<br>
+Built an SDS-to-XTF converter that gates capture on mission state and fuses DVL/INS data from NATS into navigation packets.<br>
 `Python` `NATS` `DVL` `INS` `XTF`
 
-**03 · GPS-denied localization**  
-Built a DVL-based underwater localization stack with Gazebo-to-ROS bridging and surfaced GPS fixes to reset accumulated drift.  
+**03 · GPS-denied localization**<br>
+Built a DVL-based underwater localization stack with Gazebo-to-ROS bridging and surfaced GPS fixes to reset accumulated drift.<br>
 `ROS 2` `Gazebo` `ArduPilot SITL` `C++`
 
-**04 · Buoyancy control hardware**  
-Designed an STM32/CAN solenoid driver with low-side MOSFET switching and flyback protection for depth actuation.  
+**04 · Buoyancy control hardware**<br>
+Designed an STM32/CAN solenoid driver with low-side MOSFET switching and flyback protection for depth actuation.<br>
 `STM32` `CAN` `KiCad` `C`
 
 ### `Experience`
